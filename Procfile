@@ -1,1 +1,2 @@
-railpack process exited with an error
+worker: python fastloop_trader.py
+
